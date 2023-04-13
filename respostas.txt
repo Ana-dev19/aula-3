@@ -1,0 +1,98 @@
+1-III 
+Acredito que seja essa,porque eu não sei de qual jogo está se referindo,incluindo até categoria.
+
+2-a.F
+b.F
+c.F
+d.F
+c.V
+
+Algoritmos:
+
+1-Fazer café:
+Passo 1-Pegar uma panela
+Passo 2-Acrescentar agua na panela
+Passo 3-Ligar o fogão
+Passo 4-Colocar a agua da panela para ferver
+Passo 5-Acrescentar açucar na agua
+Passo 6-Pegar um coador
+Passo 7-Acrescentar pó de café 
+Passo 8-Se a agua estiver fervida
+Passo 9-Desligue o fogão
+Passo 10-Pegue uma garrafa termica
+Passo 11- Coar o café dentro da garrafa
+
+2- Compras de remédios:
+Passo 1- Adquirir uma receita médica
+Passo 2-Ir até uma farmacia
+Passo 3-Apresentar a receita medica
+Passo 4-Pegar os remedios fornecidos
+Passo 5-Ir ao caixa
+Passo 6- Pagar pelos remedios
+Passo 7- Sair da farmacia
+
+
+3- Bolo de chocolate:
+Passo 1- Ligar o forno para deixa-lo pré aquecido 
+Passo 2- Pegar um recipente
+Passo 3- Acrescentar no recipiente ovos,farinha,açucar,fermento,leite e chocolate.
+Passo 4- Misturar os ingredientes até formar uma massa homogenia.
+Passo 5- Pegar uma forma
+Passo 6- Passar manteiga na forma
+Passo 7- Acrescentar os ingrendientes na forma
+Passo 8-Levar a forma ao forno pré aquecido
+Passo 9- Deixar o forno em uma temperatura ambiente
+Passo 10-Deixar o bolo no forno de 30 a 40 min
+Passo 11-Assim que o bolo estiver assado depois desse tempo retire do forno
+Passo 12- Espere o bolo esfriar
+Passo 13- Depois de esfriado,pegue uma boleira
+Passo 14- Tire o bolo da forma e coloque na boleira
+
+4- Somar dois números:
+Obter dois números
+Escolher algum meio de soma-los
+Chegar ao meu resultado 
+Fim-se
+
+5-Dividir dois números:
+Obter dois números
+Saber qual é o divisor de ambos
+Escolher um meio de dividi=los
+Chegar ao meu resultado
+Fim-se
+
+6- Passo 1-Obter dois valores numéricos A e B
+Passo 2- Ler os dois valores obtidos
+Passo 3-Subtrair os dois valores 
+Passo 4-Exibir o resultados da subtração
+Fim-se
+
+7-Passo 1- Obter dois valores numéricos
+Passo 2- Ler os dois valores númericos obtidos
+Passo 3-Comparar os valores númericos
+Passo 4-Ver qual foi o maior valor obtido
+Passo 5-Exibir o maior valor obtido
+
+8-Passo 1-Obter dois números
+Passo 2-Ler os números 4 e 7
+Passo 3-Exibir o número par
+Fim-se
+
+9-Obter as 4 notas do aluno
+Nota número 1=5
+Nota número 2=6
+Nota número 3=4
+Nota número 4=5
+Calcular a média das notas 5,6,4,5
+Dar o valor correspondente
+Se o aluno foi aprovado
+Exibir
+Senão
+Exibir
+
+
+
+
+
+
+
